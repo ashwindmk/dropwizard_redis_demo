@@ -1,0 +1,9 @@
+template: Hello and welcome, %s
+defaultName: User
+
+masterRedis:
+  host: localhost
+  port: 6379
+readRedis:
+  host: localhost
+  port: 6379
